@@ -12,7 +12,7 @@
 <div align="center">
 <sub>Figura 2 - Modelo conceitual</sub> <br>
   
-<img wdith="100%" alt="modelo-conceitural-bd" src="arquitetura_mvc\MVC-TiagoDosSantos.drawio.png">
+<img wdith="100%" alt="modelo-conceitural-bd" src="MVC-TiagoDosSantos.drawio.png">
 
 <sup>Material produzido pelos autores (2024)</sup>
 </div>
